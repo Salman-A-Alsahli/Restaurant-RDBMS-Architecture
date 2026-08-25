@@ -90,7 +90,6 @@ This helps showcase the practical database engineering skill of translating exec
 
 ## File Structure
 - `README.md` — project overview, architecture summary, setup guide, and performance notes
-- `schema_and_queries.sql` — original SQL project source and learning-oriented relational schema
 - `init.sql` — PostgreSQL-compatible schema used by the Docker container on startup
 - `docker-compose.yml` — PostgreSQL 15 container configuration and initialization setup
 - `requirements.txt` — Python dependencies for the seeding workflow
@@ -98,14 +97,3 @@ This helps showcase the practical database engineering skill of translating exec
 - `performance_tuning.sql` — query analysis, `EXPLAIN ANALYZE` examples, and index comparison work
 - `er_diagram.png` — conceptual ER diagram of the business domain
 - `relational_schema.png` — visualization of the relational model
-
-## Portfolio Value
-This repository demonstrates a strong combination of:
-- database design
-- SQL expertise
-- PostgreSQL deployment via Docker
-- Python-powered data seeding
-- performance tuning and query optimization
-- production-style project documentation
-
-It is suitable as a DB portfolio project for showcasing real-world relational modeling and operational database skills.
